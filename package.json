@@ -1,0 +1,13 @@
+{
+  "name": "survey-statistics",
+  "version": "1.0.0",
+  "description": "Survey statistics project with JSON data and charts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
