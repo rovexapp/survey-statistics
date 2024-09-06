@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How satisfied are you with our service?",
+    "responses": 120
+  },
+  {
+    "question": "Would you recommend us to a friend?",
+    "responses": 90
+  },
+  {
+    "question": "How likely are you to use our service again?",
+    "responses": 75
+  }
+]
